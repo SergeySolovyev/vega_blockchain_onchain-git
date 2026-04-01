@@ -1,0 +1,14 @@
+# Compiler output
+cache/
+out/
+
+# Environment
+.env
+.env.*
+
+# Dependencies (installed via forge install)
+lib/
+
+# OS
+.DS_Store
+Thumbs.db
